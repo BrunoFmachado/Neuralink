@@ -1,0 +1,1 @@
+  - Aplicativo para sortear frases para o dia.
