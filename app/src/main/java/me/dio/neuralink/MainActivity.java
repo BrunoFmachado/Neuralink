@@ -1,4 +1,4 @@
-package me.dio.frasesdodia;
+package me.dio.neuralink;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.TextView;
 
 import java.util.Random;
+
+import me.dio.frasesdodia.R;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package me.dio.frasesdodia;
+package me.dio.neuralink;
 
 import org.junit.Test;
 

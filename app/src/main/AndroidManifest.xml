@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="me.dio.frasesdodia">
+    package="me.dio.neuralink">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FrasesDoDia">
         <activity
-            android:name=".MainActivity"
+            android:name="me.dio.neuralink.MainActivity"
             android:screenOrientation="sensor"
             android:exported="true">
             <intent-filter>
